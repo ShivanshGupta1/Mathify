@@ -38,7 +38,6 @@ The calculator package of NPM
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]("https://github.com/ShivanshGupta1/Mathify)
 
 This product is what you need to code faster! Tired of writing your calculators and repeating the same process! Use our library to do it faster! One simple class, one simple object, and one simple method is **ALL YOU EVER WOULD DESIRE!**
 
